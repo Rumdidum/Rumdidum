@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<style>
+  h1 {
+    color: lightblue;
+  }
+</style>
 <!--
 **Rumdidum/Rumdidum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
